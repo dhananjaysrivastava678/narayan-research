@@ -182,10 +182,7 @@ const HowToSubmit = () => {
                     <Mail className="w-5 h-5 text-academic-blue" />
                     <span className="text-gray-700">editornarayanaresearch@gmail.com</span>
                   </div>
-                  <div className="flex items-center space-x-3">
-                    <Phone className="w-5 h-5 text-academic-blue" />
-                    <span className="text-gray-700">+91-7033113161</span>
-                  </div>
+                 
                   <p className="text-sm text-gray-600">
                     Office Hours: 10:00 AM – 6:00 PM (IST), Monday to Saturday
                   </p>
