@@ -12,7 +12,7 @@ const Contact = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Us</h1>
             <p className="text-xl text-gray-200">
-              Get in touch with the MIRRIJ editorial team
+              Get in touch with the SIJARS editorial team
             </p>
           </div>
         </div>
@@ -40,7 +40,7 @@ const Contact = () => {
               <CardContent className="space-y-4">
                 <div className="text-gray-700">
                   <h3 className="font-semibold text-lg mb-2">
-                    Multidisciplinary International Review Research and Innovation Journal (MIRRIJ)
+                    Synergy International Journal of Advanced Research Studies (SIJARS)
                   </h3>
                   <p className="mb-1">Narayan Research and Education</p>
                   <p className="mb-1">Jharkhand</p>

@@ -11,7 +11,7 @@ const ChiefEditor = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Chief Editor</h1>
             <p className="text-xl text-gray-200">
-              Leading MIRRIJ's Editorial Excellence
+              Leading SIJARS's Editorial Excellence
             </p>
           </div>
         </div>
@@ -53,7 +53,7 @@ const ChiefEditor = () => {
                     <div>
                       <h3 className="text-xl font-semibold text-gray-900 mb-2">Contact</h3>
                       <p className="text-gray-700">
-                        Email: chiefeditor@mirrij.org<br />
+                        Email: chiefeditor@sijars.org<br />
                         Phone: +91-XXXX-XXXXXX
                       </p>
                     </div>
@@ -171,7 +171,7 @@ const ChiefEditor = () => {
                   <div>
                     <h4 className="font-semibold text-gray-900 mb-2">Current Editorial Positions</h4>
                     <ul className="text-gray-700 space-y-2">
-                      <li>• Chief Editor, Multidisciplinary International Review Research and Innovation Journal (MIRRIJ) - 2020-Present</li>
+                      <li>• Chief Editor, Synergy International Journal of Advanced Research Studies (SIJARS) - 2020-Present</li>
                       <li>• Associate Editor, [Journal Name] - 2018-Present</li>
                       <li>• Editorial Board Member, [Journal Name] - 2017-Present</li>
                     </ul>

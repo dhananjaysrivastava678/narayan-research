@@ -23,7 +23,7 @@ const Home = () => {
               <span className="block text-yellow-300">Excellence</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-200 leading-relaxed">
-              Welcome to the Multidisciplinary International Review Research and Innovation Journal (MIRRIJ) - 
+              Welcome to the An International Peer-Reviewed, Open Access Journal - 
               Your gateway to cutting-edge research and scholarly innovation
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -42,13 +42,13 @@ const Home = () => {
         </div>
       </section>
 
-      {/* About MIRRIJ Section */}
+      {/* About SIJARS Section */}
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-900 mb-6">About MIRRIJ</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-6">About SIJARS</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              The Multidisciplinary International Review Research and Innovation Journal (MIRRIJ) is an open access, Peer-reviewed, CrossRef Indexed International Journal, that provides rapid publication (Quaterly) of Research Articles, Case Reports, Review Articles, Correspondences and short communications in all subjects.
+              The Synergy International Journal of Advanced Research Studies (SIJARS) is an open access, Peer-reviewed, CrossRef Indexed International Journal, that provides rapid publication (Quaterly) of Research Articles, Case Reports, Review Articles, Correspondences and short communications in all subjects.
             </p>
           </div>
 
@@ -109,7 +109,7 @@ const Home = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose MIRRIJ?</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">Why Choose SIJARS?</h2>
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
                   <CheckCircle className="w-6 h-6 text-green-500 mt-1 flex-shrink-0" />
@@ -122,7 +122,7 @@ const Home = () => {
                   <CheckCircle className="w-6 h-6 text-green-500 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900">Unique DOI Assignment</h3>
-                    <p className="text-gray-600">Every article published in MIRRIJ is provided with unique DOI</p>
+                    <p className="text-gray-600">Every article published in SIJARS is provided with unique DOI</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">

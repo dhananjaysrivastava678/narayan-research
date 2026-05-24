@@ -24,7 +24,7 @@ const Ethics = () => {
             <Alert className="mb-8 border-academic-blue/30 bg-academic-blue/5">
               <Shield className="h-5 w-5 text-academic-blue" />
               <AlertDescription className="text-academic-blue font-medium">
-                Multidisciplinary International Review Research and Innovation Journal (MIRRIJ) is 
+                Synergy International Journal of Advanced Research Studies (SIJARS) is 
                 committed to ensuring the highest standards of publication ethics.
               </AlertDescription>
             </Alert>
@@ -177,7 +177,7 @@ const Ethics = () => {
       </section>
 
       {/* Retraction Policy */}
-      <section className="py-8">
+      {/* <section className="py-8">
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <Card className="mb-8">
@@ -189,17 +189,17 @@ const Ethics = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700">
-                  MIRRIJ reserves the right to retract articles in case of major errors, plagiarism, or 
+                  SIJARS reserves the right to retract articles in case of major errors, plagiarism, or 
                   ethical violations. Retraction notes will be published clearly stating the reasons.
                 </p>
               </CardContent>
             </Card>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Open Access */}
-      <section className="py-8 bg-gray-50">
+      {/* <section className="py-8 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="max-w-6xl mx-auto">
             <Card>
@@ -211,7 +211,7 @@ const Ethics = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-gray-700">
-                  MIRRIJ provides open access to its content in support of global knowledge dissemination. 
+                  SIJARS provides open access to its content in support of global knowledge dissemination. 
                   Authors retain the copyright to their articles and agree to publication under the Creative 
                   Commons Attribution License (CC BY).
                 </p>
@@ -219,7 +219,7 @@ const Ethics = () => {
             </Card>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };

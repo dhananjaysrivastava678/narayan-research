@@ -62,7 +62,7 @@ const AdvisoryBoard = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Advisory Board</h1>
             <p className="text-xl text-gray-200">
-              Distinguished International Experts Guiding MIRRIJ's Academic Excellence
+              Distinguished International Experts Guiding SIJARS's Academic Excellence
             </p>
           </div>
         </div>
@@ -74,7 +74,7 @@ const AdvisoryBoard = () => {
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Advisory Board</h2>
             <p className="text-lg text-gray-700 leading-relaxed">
-              MIRRIJ's Advisory Board comprises distinguished academics, researchers, and industry leaders 
+              SIJARS's Advisory Board comprises distinguished academics, researchers, and industry leaders 
               from around the world. These experts provide strategic guidance, ensure academic rigor, 
               and help maintain the journal's international standards of excellence.
             </p>

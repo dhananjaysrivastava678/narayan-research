@@ -80,7 +80,7 @@ const SpecialIssue = () => {
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">About Special Issues</h2>
             <p className="text-lg text-gray-700 leading-relaxed">
-              MIRRIJ special issues provide focused platforms for exploring specific research themes 
+              SIJARS special issues provide focused platforms for exploring specific research themes 
               in depth. These curated collections bring together experts from multiple disciplines 
               to address contemporary challenges and emerging trends in science and technology.
             </p>
@@ -222,7 +222,7 @@ const SpecialIssue = () => {
                 </CardHeader>
                 <CardContent>
                   <ul className="text-gray-700 space-y-2 text-sm">
-                    <li>• Follow standard MIRRIJ formatting guidelines</li>
+                    <li>• Follow standard SIJARS formatting guidelines</li>
                     <li>• Clearly indicate the special issue in your cover letter</li>
                     <li>• Ensure your work aligns with the special issue theme</li>
                     <li>• Original research or comprehensive review articles</li>
@@ -309,7 +309,7 @@ const SpecialIssue = () => {
               </div>
               <div className="pt-4">
                 <p className="text-gray-200 text-sm">
-                  Send your proposal to: <span className="font-semibold">specialissues@mirrij.org</span>
+                  Send your proposal to: <span className="font-semibold">specialissues@sijars.org</span>
                 </p>
               </div>
             </div>

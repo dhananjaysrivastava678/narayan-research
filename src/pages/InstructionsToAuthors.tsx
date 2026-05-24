@@ -12,7 +12,7 @@ const InstructionsToAuthors = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Instructions to Authors</h1>
             <p className="text-xl text-gray-200">
-              Guidelines for manuscript preparation and submission to MIRRIJ
+              Guidelines for manuscript preparation and submission to SIJARS
             </p>
           </div>
         </div>

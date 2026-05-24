@@ -9,9 +9,9 @@ const AboutJournal = () => {
       <section className="bg-gradient-to-r from-academic-blue to-academic-blue-light text-white py-16">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About MIRRIJ</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About SIJARS</h1>
             <p className="text-xl text-gray-200">
-              Multidisciplinary International Review Research and Innovation Journal
+              Synergy International Journal of Advanced Research Studies
             </p>
           </div>
         </div>
@@ -25,10 +25,10 @@ const AboutJournal = () => {
             <div className="mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Journal Overview</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                The Multidisciplinary International Review Research and Innovation Journal (MIRRIJ) is a peer-reviewed, multidisciplinary, open-access journal committed to publishing cutting-edge research that drives innovation, fosters intellectual growth, and advances knowledge across diverse academic and professional domains. .
+                The Synergy International Journal of Advanced Research Studies (SIJARS) is a peer-reviewed, multidisciplinary, open-access journal committed to publishing cutting-edge research that drives innovation, fosters intellectual growth, and advances knowledge across diverse academic and professional domains. .
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                MIRRIJ has served as a premier platform for scholars, researchers, and practitioners to share original research findings, critical analyses, and groundbreaking methodologies with a global audience.
+                SIJARS has served as a premier platform for scholars, researchers, and practitioners to share original research findings, critical analyses, and groundbreaking methodologies with a global audience.
               </p>
             </div>
 
@@ -71,7 +71,7 @@ const AboutJournal = () => {
             <div className="mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Scope and Disciplines</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                MIRRIJ embraces a broad spectrum of academic disciplines, encouraging 
+                SIJARS embraces a broad spectrum of academic disciplines, encouraging 
                 interdisciplinary research that addresses complex real-world challenges. 
                 Our scope includes but is not limited to:
               </p>
@@ -126,7 +126,7 @@ const AboutJournal = () => {
                 <div>
                   <h4 className="font-semibold text-gray-900 mb-2">Open Access Policy</h4>
                   <p className="text-gray-700">
-                    MIRRIJ follows an open access policy, making research freely available 
+                    SIJARS follows an open access policy, making research freely available 
                     to the global community and promoting knowledge dissemination.
                   </p>
                 </div>

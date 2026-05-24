@@ -12,6 +12,7 @@ import InstructionsToAuthors from "./pages/InstructionsToAuthors";
 import HowToSubmit from "./pages/HowToSubmit";
 import ChiefEditor from "./pages/ChiefEditor";
 import EditorialSecretary from "./pages/EditorialSecretary";
+import EditorialMember from "./pages/EditorialMember";
 import AdvisoryBoard from "./pages/AdvisoryBoard";
 import CurrentIssue from "./pages/CurrentIssue";
 import Archive from "./pages/Archive";
@@ -43,6 +44,7 @@ const App = () => (
               <Route path="/current-issue" element={<CurrentIssue />} />
               <Route path="/archive" element={<Archive />} />
               <Route path="/special-issue" element={<SpecialIssue />} /> */}
+              <Route path="/editorial-member" element={<EditorialMember />} />   
               <Route path="/ethics" element={<Ethics />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/register" element={<Register />} />

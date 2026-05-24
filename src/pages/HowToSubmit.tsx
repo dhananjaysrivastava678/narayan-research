@@ -24,7 +24,7 @@ const HowToSubmit = () => {
             </div> */}
             <h1 className="text-4xl md:text-5xl font-bold mb-6">How to Submit Your Paper</h1>
             <p className="text-xl text-gray-200">
-              Step-by-step guide to submitting your research to MIRRIJ
+              Step-by-step guide to submitting your research to SIJARS
             </p>
           </div>
         </div>
@@ -84,7 +84,7 @@ const HowToSubmit = () => {
                     {
                       step: "1",
                       title: "Prepare Your Manuscript",
-                      description: "Ensure your manuscript is in Word format and follows MIRRIJ formatting guidelines.",
+                      description: "Ensure your manuscript is in Word format and follows SIJARS formatting guidelines.",
                       time: "1-2 weeks"
                     },
                     {

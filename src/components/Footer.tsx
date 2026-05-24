@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
               Advancing multidisciplinary research and innovation through the 
-              Multidisciplinary International Review Research and Innovation Journal (MIRRIJ).
+              Synergy International Journal of Advanced Research Studies (SIJARS).
             </p>
           </div>
 
@@ -32,7 +32,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <div className="text-sm min-w-0">
-                  <p className="text-gray-300 break-all">editor@mirrij.org</p>
+                  <p className="text-gray-300 break-all">editor@sijars.org</p>
                   <p className="text-gray-300 break-all">info@narayanresearch.org</p>
                 </div>
               </div>
@@ -60,7 +60,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold">Quick Links</h4>
             <div className="space-y-2">
               <a href="/about-journal" className="block text-sm text-gray-300 hover:text-white transition-colors">
-                About MIRRIJ
+                About SIJARS
               </a>
               <a href="/instructions-to-authors" className="block text-sm text-gray-300 hover:text-white transition-colors">
                 Submission Guidelines

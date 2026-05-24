@@ -84,15 +84,15 @@ const Navbar = () => {
             {/* Editorial Leadership Dropdown */}
             <DropdownMenu>
               <DropdownMenuTrigger className="flex items-center space-x-1 font-medium text-gray-700 hover:text-academic-blue transition-colors">
-                <span>Editorial Leadership</span>
+                <span>Editorial Board</span>
                 <ChevronDown className="w-4 h-4" />
               </DropdownMenuTrigger>
               <DropdownMenuContent className="bg-white border shadow-lg">
-                <DropdownMenuItem asChild>
+                {/* <DropdownMenuItem asChild>
                   <Link to="/chief-editor" className="cursor-pointer">Chief Editor</Link>
-                </DropdownMenuItem>
+                </DropdownMenuItem> */}
                 <DropdownMenuItem asChild>
-                  <Link to="/editorial-secretary" className="cursor-pointer">Editorial Secretary</Link>
+                  <Link to="/editorial-member" className="cursor-pointer">Editorial Board Member</Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
                   <Link to="/advisory-board" className="cursor-pointer">Advisory Board</Link>
@@ -194,20 +194,20 @@ const Navbar = () => {
                 </Link>
               </div>
               <div className="space-y-2">
-                <p className="font-medium text-gray-900">Editorial Leadership</p>
-                <Link 
+                <p className="font-medium text-gray-900">Editorial Board</p>
+                {/* <Link 
                   to="/chief-editor" 
                   className="block pl-4 text-gray-700 hover:text-academic-blue transition-colors"
                   onClick={handleMobileLinkClick}
                 >
                   Chief Editor
-                </Link>
+                </Link> */}
                 <Link 
-                  to="/editorial-secretary" 
+                  to="/editorial-member" 
                   className="block pl-4 text-gray-700 hover:text-academic-blue transition-colors"
                   onClick={handleMobileLinkClick}
                 >
-                  Editorial Secretary
+                  Editorial Board Member
                 </Link>
                 <Link 
                   to="/advisory-board" 

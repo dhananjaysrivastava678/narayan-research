@@ -22,7 +22,7 @@ const NotFound = () => {
           <h1 className="text-2xl font-bold text-gray-900 mb-4">Page Not Found</h1>
           <p className="text-gray-600 mb-8">
             The page you're looking for doesn't exist or has been moved. 
-            Let's get you back to exploring MIRRIJ's research content.
+            Let's get you back to exploring SIJARS's research content.
           </p>
         </div>
         
@@ -36,7 +36,7 @@ const NotFound = () => {
           <Button asChild variant="outline" className="w-full">
             <Link to="/about-journal">
               <ArrowLeft className="mr-2 w-4 h-4" />
-              About MIRRIJ
+              About SIJARS
             </Link>
           </Button>
         </div>
