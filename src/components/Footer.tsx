@@ -1,5 +1,5 @@
 
-import { Facebook, Instagram, Youtube, Mail, MapPin, Clock } from "lucide-react";
+import { Facebook, Instagram, Youtube, Mail, MapPin, Clock, Phone } from "lucide-react";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -32,15 +32,20 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <div className="text-sm min-w-0">
-                  <p className="text-gray-300 break-all">editor@sijars.org</p>
-                  <p className="text-gray-300 break-all">info@narayanresearch.org</p>
+                  <p className="text-gray-300 break-all">narayanresearchandeducation@gmail.com </p>
+                </div>
+              </div>
+              <div className="flex items-start space-x-3">
+                <Phone className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
+                <div className="text-sm min-w-0">
+                  <p className="text-gray-300 break-all">7480979566 / 7250913161 </p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <p className="text-sm text-gray-300">
-                  Journal Office Address<br />
-                  City, State - PIN Code<br />
+                  Bhuli Nagar, Dhanbad<br />
+                  Jharkhand / Pin. Code – (828105)<br />
                   India
                 </p>
               </div>

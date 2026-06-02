@@ -21,7 +21,7 @@ const members = [
   {
     name: "Anand Dwived",
     designation: "Senior Instructor ",
-    department: "Department Name",
+    department: "Dept. of Humanities & Social Sciences",
     college: "Abu Dhabi University",
     address: "City, State Pincode",
     email: "anand.dwivedi@adu.ac.ae",
@@ -32,6 +32,13 @@ const members = [
     department: "Department of Sociology",
     college: "University of Colombo",
     email: "jagath@soc.cmb.ac.lk",
+  },
+    {
+    name: "Aniruddha Das",
+    designation: "Head & Assistant Professor",
+    department: "Political Science ",
+    college: "Barasat Government College",
+    email: "aniruddha.das@bgc.ac.in",
   },
 ];
 

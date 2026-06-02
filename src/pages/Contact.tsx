@@ -43,7 +43,7 @@ const Contact = () => {
                     Synergy International Journal of Advanced Research Studies (SIJARS)
                   </h3>
                   <p className="mb-1">Narayan Research and Education</p>
-                  <p className="mb-1">Jharkhand</p>
+                  <p className="mb-1">Dhanbad, Jharkhand</p>
                   <p>India</p>
                 </div>
               </CardContent>
@@ -62,9 +62,9 @@ const Contact = () => {
                   <h4 className="font-semibold text-gray-900 mb-2">📧 Email:</h4>
                   <div className="space-y-1 text-gray-700">
                     <p><strong>Manuscript Submission:</strong></p>
-                    <p className="text-academic-blue break-all">editornarayanaresearch@gmail.com</p>
+                    <p className="text-academic-blue break-all">narayanresearchandeducation@gmail.com </p>
                     <p><strong>General Inquiries:</strong></p>
-                    <p className="text-academic-blue break-all">publicationarticle146@gmail.com</p>
+                    <p className="text-academic-blue break-all">narayanresearchandeducation@gmail.com </p>
                   </div>
                 </div>
               </CardContent>
@@ -136,7 +136,7 @@ const Contact = () => {
                   <h3 className="text-xl font-semibold">For Manuscript Submission</h3>
                   <p className="text-gray-600">Submit your research papers and manuscripts</p>
                   <div className="text-academic-blue break-all text-sm">
-                    editornarayanaresearch@gmail.com
+                    narayanresearchandeducation@gmail.com 
                   </div>
                 </CardContent>
               </Card>
@@ -147,7 +147,7 @@ const Contact = () => {
                   <h3 className="text-xl font-semibold">For General Inquiries</h3>
                   <p className="text-gray-600">Questions about the journal and publication process</p>
                   <div className="text-academic-blue break-all text-sm">
-                    publicationarticle146@gmail.com
+                    narayanresearchandeducation@gmail.com 
                   </div>
                 </CardContent>
               </Card>
