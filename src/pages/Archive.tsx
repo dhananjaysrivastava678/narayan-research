@@ -9,28 +9,28 @@ import { Badge } from "@/components/ui/badge";
 const Archive = () => {
   const archiveIssues = [
     {
-      volume: "5",
+      volume: "1",
       issue: "1",
-      year: "2024",
-      month: "March",
-      articles: 6,
-      pages: 95,
+      year: "2026",
+      month: "Aprail - June",
+      articles: 1,
+      pages: "1 - 12",
       coverImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
     },
     {
-      volume: "4",
-      issue: "4",
-      year: "2023",
-      month: "December",
-      articles: 7,
-      pages: 108,
+      volume: "1",
+      issue: "1",
+      year: "2026",
+      month: "Aprail - June",
+      articles: 2,
+      pages: "13 - 19",
       coverImage: "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
     },
     {
-      volume: "4",
-      issue: "3",
-      year: "2023",
-      month: "September",
+      volume: "1",
+      issue: "1",
+      year: "2026",
+      month: "Aprail - June",
       articles: 5,
       pages: 78,
       coverImage: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"

@@ -42,8 +42,8 @@ const App = () => (
               <Route path="/editorial-secretary" element={<EditorialSecretary />} />
               <Route path="/advisory-board" element={<AdvisoryBoard />} />
               <Route path="/current-issue" element={<CurrentIssue />} />
-              <Route path="/special-issue" element={<SpecialIssue />} /> */}
               <Route path="/archive" element={<Archive />} />
+              <Route path="/special-issue" element={<SpecialIssue />} /> */}
               <Route path="/editorial-member" element={<EditorialMember />} />   
               <Route path="/ethics" element={<Ethics />} />
               <Route path="/contact" element={<Contact />} />
