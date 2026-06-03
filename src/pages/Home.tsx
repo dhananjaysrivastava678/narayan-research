@@ -48,7 +48,7 @@ const Home = () => {
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-900 mb-6">About SIJARS</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              The Synergy International Journal of Advanced Research Studies (SIJARS) is an open access, Peer-reviewed, CrossRef Indexed International Journal, that provides rapid publication (Quaterly) of Research Articles, Case Reports, Review Articles, Correspondences and short communications in all subjects.
+              The Synergy: International Journal of Advanced Research Studies (SIJARS) is an open access, Peer-reviewed, CrossRef Indexed International Journal, that provides rapid publication (Quaterly) of Research Articles, Case Reports, Review Articles, Correspondences and short communications in all subjects.
             </p>
           </div>
 

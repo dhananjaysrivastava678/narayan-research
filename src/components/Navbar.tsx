@@ -76,6 +76,9 @@ const Navbar = () => {
                   <Link to="/instructions-to-authors" className="cursor-pointer">Instructions to Authors</Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
+                  <Link to="/journal-info" className="cursor-pointer">Journal Info</Link>
+                </DropdownMenuItem>
+                <DropdownMenuItem asChild>
                   <Link to="/how-to-submit" className="cursor-pointer">How to Submit Paper</Link>
                 </DropdownMenuItem>
               </DropdownMenuContent>
@@ -184,6 +187,13 @@ const Navbar = () => {
                   onClick={handleMobileLinkClick}
                 >
                   Instructions to Authors
+                </Link>
+                <Link 
+                  to="/journal-info" 
+                  className="block pl-4 text-gray-700 hover:text-academic-blue transition-colors"
+                  onClick={handleMobileLinkClick}
+                >
+                  Journal Info
                 </Link>
                 <Link 
                   to="/how-to-submit" 

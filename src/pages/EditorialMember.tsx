@@ -1,4 +1,4 @@
-import { User, Mail, BookOpen } from "lucide-react";
+import { User, Mail, BookOpen, Link2 } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 
 const members = [
@@ -9,6 +9,7 @@ const members = [
     college: "KIET Deemed to be University",
     address: "Murad Nagar, Ghaziabad 201206",
     email: "shalika.rakesh@kiet.edu",
+    profileLink: "https://www.linkedin.com/in/shalika-rakesh-369b8624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
   },
   {
     name: "Dr. Nagmanee Kumar ",
@@ -17,14 +18,16 @@ const members = [
     college: "Nalanda Mahila College, Biharsharf, Nalanda,  Patliputra University",
     address: "Patna (Bihar) India",
     email: "kumarmani@nalandamahilacollege.ac.in",
+    profileLink: "https://nalandamahilacollege.ac.in/profile.php?id=59"
   },
   {
     name: "Anand Dwived",
     designation: "Senior Instructor ",
     department: "Dept. of Humanities & Social Sciences",
     college: "Abu Dhabi University",
-    address: "City, State Pincode",
+    address: " Abu Dhabi, United Arab Emirates 2022",
     email: "anand.dwivedi@adu.ac.ae",
+    profileLink: "https://gep.adu.ac.ae/faculty/ananddwivedi"
   },
   {
     name: "Jagath Wellawatte",
@@ -32,13 +35,16 @@ const members = [
     department: "Department of Sociology",
     college: "University of Colombo",
     email: "jagath@soc.cmb.ac.lk",
+    profileLink: "https://www.res.cmb.ac.lk/soc/jagath.bandara.pathirage/"
   },
     {
     name: "Aniruddha Das",
     designation: "Head & Assistant Professor",
     department: "Political Science ",
     college: "Barasat Government College",
+    address:" West Bengal, India",
     email: "aniruddha.das@bgc.ac.in",
+    profileLink: "https://bgc.ac.in/index.php?option=com_content&view=article&id=125&Itemid=0"
   },
 ];
 
@@ -114,6 +120,17 @@ const EditorialMember = () => {
                         <span className="text-academic-blue text-sm break-all">
                         {member.email}
                         </span>
+                    </div>
+                   <div className="flex items-center space-x-3">
+                      <Link2 className="w-4 h-4 text-academic-blue flex-shrink-0" />
+                      <a
+                      href={member.profileLink}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-blue-600 text-sm font-medium hover:underline"
+                      >
+                      View Profile
+                      </a>
                     </div>
 
                     </div>

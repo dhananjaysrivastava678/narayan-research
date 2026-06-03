@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
               Advancing multidisciplinary research and innovation through the 
-              Synergy International Journal of Advanced Research Studies (SIJARS).
+              Synergy: International Journal of Advanced Research Studies (SIJARS).
             </p>
           </div>
 

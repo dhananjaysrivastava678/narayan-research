@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import AboutJournal from "./pages/AboutJournal";
 import InstructionsToAuthors from "./pages/InstructionsToAuthors";
+import JournalInfo from "./pages/JournalInfo";
 import HowToSubmit from "./pages/HowToSubmit";
 import ChiefEditor from "./pages/ChiefEditor";
 import EditorialSecretary from "./pages/EditorialSecretary";
@@ -37,13 +38,14 @@ const App = () => (
               <Route path="/" element={<Home />} />
               <Route path="/about-journal" element={<AboutJournal />} />
               <Route path="/instructions-to-authors" element={<InstructionsToAuthors />} />
+              <Route path="/journal-info" element={<JournalInfo />}/>
               <Route path="/how-to-submit" element={<HowToSubmit />} />
               {/* <Route path="/chief-editor" element={<ChiefEditor />} />
               <Route path="/editorial-secretary" element={<EditorialSecretary />} />
               <Route path="/advisory-board" element={<AdvisoryBoard />} />
               <Route path="/current-issue" element={<CurrentIssue />} />
-              <Route path="/archive" element={<Archive />} />
               <Route path="/special-issue" element={<SpecialIssue />} /> */}
+              <Route path="/archive" element={<Archive />} />
               <Route path="/editorial-member" element={<EditorialMember />} />   
               <Route path="/ethics" element={<Ethics />} />
               <Route path="/contact" element={<Contact />} />

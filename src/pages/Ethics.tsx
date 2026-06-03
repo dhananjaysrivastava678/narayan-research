@@ -24,7 +24,7 @@ const Ethics = () => {
             <Alert className="mb-8 border-academic-blue/30 bg-academic-blue/5">
               <Shield className="h-5 w-5 text-academic-blue" />
               <AlertDescription className="text-academic-blue font-medium">
-                Synergy International Journal of Advanced Research Studies (SIJARS) is 
+                Synergy: International Journal of Advanced Research Studies (SIJARS) is 
                 committed to ensuring the highest standards of publication ethics.
               </AlertDescription>
             </Alert>

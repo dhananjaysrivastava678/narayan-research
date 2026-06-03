@@ -11,7 +11,7 @@ const AboutJournal = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-bold mb-6">About SIJARS</h1>
             <p className="text-xl text-gray-200">
-              Synergy International Journal of Advanced Research Studies
+              Synergy: International Journal of Advanced Research Studies
             </p>
           </div>
         </div>
@@ -25,7 +25,7 @@ const AboutJournal = () => {
             <div className="mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Journal Overview</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                The Synergy International Journal of Advanced Research Studies (SIJARS) is a peer-reviewed, multidisciplinary, open-access journal committed to publishing cutting-edge research that drives innovation, fosters intellectual growth, and advances knowledge across diverse academic and professional domains. .
+                The Synergy: International Journal of Advanced Research Studies (SIJARS) is a peer-reviewed, multidisciplinary, open-access journal committed to publishing cutting-edge research that drives innovation, fosters intellectual growth, and advances knowledge across diverse academic and professional domains. .
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 SIJARS has served as a premier platform for scholars, researchers, and practitioners to share original research findings, critical analyses, and groundbreaking methodologies with a global audience.

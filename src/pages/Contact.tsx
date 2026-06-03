@@ -40,7 +40,7 @@ const Contact = () => {
               <CardContent className="space-y-4">
                 <div className="text-gray-700">
                   <h3 className="font-semibold text-lg mb-2">
-                    Synergy International Journal of Advanced Research Studies (SIJARS)
+                    Synergy: International Journal of Advanced Research Studies (SIJARS)
                   </h3>
                   <p className="mb-1">Narayan Research and Education</p>
                   <p className="mb-1">Dhanbad, Jharkhand</p>

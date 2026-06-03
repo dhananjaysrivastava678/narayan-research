@@ -51,8 +51,8 @@ const InstructionsToAuthors = () => {
                   <div className="flex items-center space-x-2 text-gray-700">
                     <Mail className="w-4 h-4 text-academic-blue" />
                     <span>In case of technical difficulties, contact us at:</span>
-                    <a href="mailto:editornarayanaresearch@gmail.com" className="text-academic-blue hover:underline font-medium break-all">
-                      editornarayanaresearch@gmail.com
+                    <a href="mailto:narayanresearchandeducation@gmail.com" className="text-academic-blue hover:underline font-medium break-all">
+                      narayanresearchandeducation@gmail.com
                     </a>
                   </div>
                 </div>
@@ -183,8 +183,8 @@ const InstructionsToAuthors = () => {
                 <div className="flex items-center space-x-2 text-gray-700">
                   <Mail className="w-5 h-5 text-academic-blue" />
                   <span>For any queries regarding submission:</span>
-                  <a href="mailto:editornarayanaresearch@gmail.com" className="text-academic-blue hover:underline font-medium break-all">
-                    editornarayanaresearch@gmail.com
+                  <a href="mailto:narayanresearchandeducation@gmail.com" className="text-academic-blue hover:underline font-medium break-all">
+                    narayanresearchandeducation@gmail.com 
                   </a>
                 </div>
               </CardContent>
