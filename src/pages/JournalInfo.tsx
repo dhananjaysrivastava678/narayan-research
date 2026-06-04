@@ -67,14 +67,14 @@ const JournalInfo = () => {
               </p>
             </div>
 
-            <div className="bg-white rounded-2xl shadow-lg p-6 text-center">
+            {/* <div className="bg-white rounded-2xl shadow-lg p-6 text-center">
               <h3 className="text-3xl font-bold text-purple-700">
                 Peer Review
               </h3>
               <p className="text-gray-600 mt-2">
                 Double Blind
               </p>
-            </div>
+            </div> */}
 
             <div className="bg-white rounded-2xl shadow-lg p-6 text-center">
               <h3 className="text-3xl font-bold text-orange-700">
@@ -138,7 +138,7 @@ const JournalInfo = () => {
                     Journal Title
                   </td>
                   <td className="p-5">
-                    Narayan Research Journal
+                    Synergy: International Journal of Advanced Research Studies
                   </td>
                 </tr>
 
@@ -174,7 +174,7 @@ const JournalInfo = () => {
                     Language
                   </td>
                   <td className="p-5">
-                    English
+                    Multiple languages: English, Hindi,Sanskrit, Bengali, Urdu, etc.
                   </td>
                 </tr>
 
@@ -183,7 +183,7 @@ const JournalInfo = () => {
                     Subject Area
                   </td>
                   <td className="p-5">
-                    Multidisciplinary Research
+                    Multidisciplinary Subject: Social Science, Business & Management, Arts & Humanities etc.
                   </td>
                 </tr>
 
