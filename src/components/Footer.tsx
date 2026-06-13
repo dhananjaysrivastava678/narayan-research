@@ -32,7 +32,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <div className="text-sm min-w-0">
-                  <p className="text-gray-300 break-all">narayanresearchandeducation@gmail.com </p>
+                  <p className="text-gray-300 break-all">editornarayanaresearch@gmail.com, <br />narayanresearchandeducation@gmail.com </p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
@@ -44,9 +44,11 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <p className="text-sm text-gray-300">
-                  Bhuli Nagar, Dhanbad<br />
-                  Jharkhand / Pin. Code – (828105)<br />
-                  India
+                  Vill- Bhojpur Khatal, Near Shakti Market
+                  Bhuli Nagar, Dharjori
+                  P.O. Shramik Nagar
+                  Dhanbad – 828104
+                  Jharkhand, India
                 </p>
               </div>
               <div className="flex items-start space-x-3">

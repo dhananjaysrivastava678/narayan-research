@@ -156,7 +156,7 @@ const JournalInfo = () => {
                     Publication Frequency
                   </td>
                   <td className="p-5">
-                    Quarterly (4 Issues Per Year)
+                     Quarterly 
                   </td>
                 </tr>
 
@@ -174,7 +174,7 @@ const JournalInfo = () => {
                     Language
                   </td>
                   <td className="p-5">
-                    Multiple languages: English, Hindi,Sanskrit, Bengali, Urdu, etc.
+                    Multiple languages
                   </td>
                 </tr>
 
@@ -183,7 +183,25 @@ const JournalInfo = () => {
                     Subject Area
                   </td>
                   <td className="p-5">
-                    Multidisciplinary Subject: Social Science, Business & Management, Arts & Humanities etc.
+                    Multidisciplinary Subjects
+                  </td>
+                </tr>
+
+                <tr className="border-b">
+                  <td className="p-5 font-semibold">
+                    Publisher's Name 
+                  </td>
+                  <td className="p-5">
+                    Narayan Research and Education
+                  </td>
+                </tr>
+
+                <tr className="border-b">
+                  <td className="p-5 font-semibold">
+                     Address
+                  </td>
+                  <td className="p-5">
+Vill- Bhojpur Khatal, Near Shakti Market, Bhuli Nagar, Dharjori, P.O. Shramik Nagar, Dhanbad – 828104, Jharkhand, India.
                   </td>
                 </tr>
 
@@ -213,6 +231,22 @@ const JournalInfo = () => {
 
         </div>
       </section>
+
+ {/* PUBLISHER DECLARATION */}
+
+<div className="flex justify-center mt-8">
+  <div className="max-w-3xl bg-blue-50 border border-blue-200 rounded-2xl shadow-md px-6 py-5 text-center">
+    <h3 className="text-lg font-semibold text-slate-800 mb-2">
+      Publisher Declaration
+    </h3>
+
+    <p className="text-gray-700 leading-7">
+      <strong>SIJARS (Synergy International Journal of Advanced Research Studies) </strong>
+       is published by <strong>Narayan Research and Education</strong>, an individual
+      publisher.
+    </p>
+  </div>
+</div>
 
       {/* FEATURES */}
 
@@ -307,7 +341,7 @@ const JournalInfo = () => {
 
                 <div className="flex gap-4">
                   <Mail className="text-blue-700" />
-                  <p> narayanresearchandeducation@gmail.com</p>
+                  <p>editornarayanaresearch@gmail.com, <br /> narayanresearchandeducation@gmail.com</p>
                 </div>
 
                 <div className="flex gap-4">

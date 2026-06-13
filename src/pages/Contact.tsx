@@ -2,6 +2,7 @@
 import { Mail, MapPin, Clock, Globe, MessageCircle } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { Building2 } from "lucide-react";
 
 const Contact = () => {
   return (
@@ -49,6 +50,33 @@ const Contact = () => {
               </CardContent>
             </Card>
 
+
+             {/* Publisher Detail */}
+            <Card className="h-full">
+              <CardHeader>
+                <CardTitle className="flex items-center space-x-3">
+                <Building2 className="w-6 h-6 text-academic-blue" />
+                <span>Publis  her's Detail</span>
+                </CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                <div className="text-gray-700">
+                  <h3 className="font-semibold text-lg mb-2">
+                    Publisher's Name : Narayan Research and Education
+                  </h3>
+                  <h3 className="font-semibold text-lg mb-2">
+                    Address : Vill- Bhojpur Khatal, Near Shakti Market
+                    Bhuli Nagar, Dharjori
+                    P.O. Shramik Nagar
+                    Dhanbad – 828104
+                    Jharkhand, India
+                  </h3>
+                  
+                  
+                </div>
+              </CardContent>
+            </Card>
+
             {/* Contact Details */}
             <Card className="h-full">
               <CardHeader>
@@ -62,7 +90,7 @@ const Contact = () => {
                   <h4 className="font-semibold text-gray-900 mb-2">📧 Email:</h4>
                   <div className="space-y-1 text-gray-700">
                     <p><strong>Manuscript Submission:</strong></p>
-                    <p className="text-academic-blue break-all">narayanresearchandeducation@gmail.com </p>
+                    <p className="text-academic-blue break-all">editornarayanaresearch@gmail.com </p>
                     <p><strong>General Inquiries:</strong></p>
                     <p className="text-academic-blue break-all">narayanresearchandeducation@gmail.com </p>
                   </div>
@@ -136,7 +164,7 @@ const Contact = () => {
                   <h3 className="text-xl font-semibold">For Manuscript Submission</h3>
                   <p className="text-gray-600">Submit your research papers and manuscripts</p>
                   <div className="text-academic-blue break-all text-sm">
-                    narayanresearchandeducation@gmail.com 
+                    editornarayanaresearch@gmail.com
                   </div>
                 </CardContent>
               </Card>
