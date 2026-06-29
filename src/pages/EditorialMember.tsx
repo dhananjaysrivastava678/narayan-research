@@ -34,7 +34,7 @@ const members = [
     designation: "Senior Lecturer",
     department: "Department of Sociology",
     college: "University of Colombo",
-    email: "jagath@soc.cmb.ac.lk",
+    email: "jagathw@soc.cmb.ac.lk",
     profileLink: "https://www.res.cmb.ac.lk/soc/jagath.bandara.pathirage/"
   },
     {
