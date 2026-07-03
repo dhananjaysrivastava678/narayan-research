@@ -174,7 +174,7 @@ const JournalInfo = () => {
                     Language
                   </td>
                   <td className="p-5">
-                    Multiple languages
+                    Multiple languages(English, Hindi, Sanskrit, Bengali, Urdu, Telugu)
                   </td>
                 </tr>
 
