@@ -1,4 +1,4 @@
-import { User, Mail, BookOpen, Link2 } from "lucide-react";
+import { User, BookOpen, Link2 } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 
 const members = [
@@ -115,13 +115,13 @@ const EditorialMember = () => {
                         </div>
                       </div>
 
-                   <div className="flex items-center space-x-3">
+                   {/* <div className="flex items-center space-x-3">
                         <Mail className="w-4 h-4 text-academic-blue flex-shrink-0" />
                         <span className="text-academic-blue text-sm break-all">
                         {member.email}
                         </span>
-                    </div>
-                   <div className="flex items-center space-x-3">
+                    </div> */}
+                   {/* <div className="flex items-center space-x-3">
                       <Link2 className="w-4 h-4 text-academic-blue flex-shrink-0" />
                       <a
                       href={member.profileLink}
@@ -131,7 +131,7 @@ const EditorialMember = () => {
                       >
                       View Profile
                       </a>
-                    </div>
+                    </div> */}
 
                     </div>
                   </CardContent>

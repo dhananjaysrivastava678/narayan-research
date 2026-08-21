@@ -44,10 +44,10 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <p className="text-sm text-gray-300">
-                  Vill- Bhojpur Khatal, Near Shakti Market
+                  {/* Vill- Bhojpur Khatal, Near Shakti Market
                   Bhuli Nagar, Dharjori
-                  P.O. Shramik Nagar
-                  Dhanbad – 828104
+                  P.O. Shramik Nagar */}
+                  Dhanbad,
                   Jharkhand, India
                 </p>
               </div>
@@ -55,7 +55,7 @@ const Footer = () => {
                 <Clock className="w-5 h-5 text-academic-blue-light mt-0.5 flex-shrink-0" />
                 <div className="text-sm text-gray-300">
                   <p>Office Hours:</p>
-                  <p>Mon-Fri: 9:00 AM - 6:00 PM</p>
+                  <p>Mon-Fri: 9:00 AM - 6:00 PM to</p> 
                   <p>Sat: 9:00 AM - 2:00 PM</p>
                 </div>
               </div>

@@ -54,7 +54,7 @@ const JournalInfo = () => {
                 ISSN
               </h3>
               <p className="text-gray-600 mt-2">
-                Applied / Awaited
+                3139-5864 (Online)
               </p>
             </div>
 
@@ -201,7 +201,8 @@ const JournalInfo = () => {
                      Address
                   </td>
                   <td className="p-5">
-Vill- Bhojpur Khatal, Near Shakti Market, Bhuli Nagar, Dharjori, P.O. Shramik Nagar, Dhanbad – 828104, Jharkhand, India.
+{/* Vill- Bhojpur Khatal, Near Shakti Market, Bhuli Nagar, Dharjori, P.O. Shramik Nagar, Dhanbad – 828104, Jharkhand, India. */}
+                    Dhanbad , Jharkhand, India
                   </td>
                 </tr>
 
@@ -219,7 +220,7 @@ Vill- Bhojpur Khatal, Near Shakti Market, Bhuli Nagar, Dharjori, P.O. Shramik Na
                     ISSN
                   </td>
                   <td className="p-5">
-                    Applied / Awaited
+                    3139-5864 (Online)
                   </td>
                 </tr>
 
